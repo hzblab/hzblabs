@@ -1,5 +1,3 @@
-# Hazeeb here   
-
 Machine Learning engineer
 
 ## 🔧 Tech Stack
